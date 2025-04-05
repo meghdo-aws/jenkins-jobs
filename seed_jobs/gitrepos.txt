@@ -1,0 +1,2 @@
+git@github.com:meghdo-cloud/primer.git
+git@github.com:meghdo-cloud/liquibase.git
